@@ -5,7 +5,7 @@ Quantitative Analyst/Researcher: Develop and research trading algorithms using m
 
 Quantitative Trader: Execute and monitor algorithmic trading strategies, potentially making adjustments as needed.
 
-##Quantitative Skills:
+## Quantitative Skills:
 * Mathematics: Strong understanding of calculus, linear algebra, probability theory, and statistics is essential. This allows you to build and analyze quantitative models.
 * Financial Mathematics: Knowledge of financial mathematics, including time series analysis, option pricing models (e.g., Black-Scholes), and risk management techniques, is crucial for applying quantitative methods to financial markets.
 * Econometrics: Familiarity with econometric techniques for analyzing financial data and testing hypotheses is valuable.
